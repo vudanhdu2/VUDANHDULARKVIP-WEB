@@ -42,7 +42,7 @@ export default function DocsIndexPage() {
               <li>Markdown rendering với shiki syntax highlight</li>
               <li>Full-text search (Fuse.js client-side)</li>
               <li>Open Graph + JSON-LD cho SEO</li>
-              <li>"View source on Larksuite" link</li>
+              <li>&ldquo;View source on Larksuite&rdquo; link</li>
             </ul>
             <div className="pt-3 mt-3 border-t">
               <Link

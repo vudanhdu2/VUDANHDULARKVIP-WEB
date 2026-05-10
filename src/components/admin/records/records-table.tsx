@@ -19,7 +19,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { trpc } from "@/lib/trpc-client";
-import { formatDuration, formatTimestamp, truncate } from "@/lib/utils";
+import { formatTimestamp, truncate } from "@/lib/utils";
 
 const STAGES = [
   "Pending",
